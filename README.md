@@ -1,4 +1,3 @@
-# profile
 <h1 align="center">Hi 👋, I'm John Vethamanickam</h1>
 - 🌱 I’m currently learning **Fullstack development(MERN)**
 
